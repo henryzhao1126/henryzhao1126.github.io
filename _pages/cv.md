@@ -9,56 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Xinhan Zhao
+
+**Currently a Junior student at School of Mathematics, Southeast University.**
+
+## Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mathematics, University of California, Berkeley (BISP, Exchange Student), 2025.08 – 2025.12 (GPA: 3.33)
+  * Courses: MATH55 Discrete Math, MATH126 Intro to PDE, STAT150 Stochastic Process
+* B.S. in Mathematics, Southeast University (Undergraduate), 2023 – 2027 (GPA: 3.22)
 
-Work experience
+## Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*(暂无工作经历，如有新内容请告诉我，我帮你补充)*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+## Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 二级足球裁判员
 
-Publications
+## Languages
+======
+* Chinese (Native)
+* English
+* Spanish
+
+## Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+## Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+## Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+## Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*(暂无，如有请告诉我，我帮你补充)*
